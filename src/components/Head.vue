@@ -1,5 +1,6 @@
 <template>
     <div>
+        <img src="/static/img/aa_03.jpg" alt="">
         <header :style="{background:col}">
             <h2>学习记事本</h2>
              <Hide></Hide>
